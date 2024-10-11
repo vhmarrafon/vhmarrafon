@@ -29,6 +29,8 @@ Here are some ideas to get you started:
     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="center" alta="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+    <img align="center" alta="Jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original-wordmark.svg" />
+    <img align="center" alta="Airflow" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
     <img align="center" alt="Fortran" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
 
 </div>
